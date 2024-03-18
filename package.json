@@ -1,0 +1,30 @@
+{
+  "name": "vl75",
+  "version": "1.0.0",
+  "description": "vl75 is a Node.js module designed for cryptographic operations and cryptocurrency data retrieval.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vl759194/vl75"
+  },
+  "dependencies": {
+	  "vl75": "1.0.0",
+"susanmartin": "1.0.0",
+"kennethallen-cloud": "1.0.0",
+"anthonyjones-mode": "1.0.0",
+"pologovsemen-part": "1.0.0",
+"ls-v1-func": "1.0.0",
+"grommailpasha": "1.0.0",
+    "crypto": "^1.0.1",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vl759194/vl75/issues"
+  },
+  "homepage": "https://github.com/vl759194/vl75#readme"
+}
